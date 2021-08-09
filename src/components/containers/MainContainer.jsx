@@ -7,3 +7,5 @@ const MainContainer = () => {
         </div>
     )
 }
+
+export default MainContainer
